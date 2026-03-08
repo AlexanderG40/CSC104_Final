@@ -1,1 +1,2 @@
 # CSC104_Final
+This is an academic project built for a final. For this project, I did a wireframe to give me a rough idea of where each element would go, which also allowed me to have documentation to follow. To access this project, download the zip folder and unzip the folder in your code editor of choice (Visual Studio Code). Finally, download the "Live Server" extension in Visual Studio Code, run it, and enjoy!
